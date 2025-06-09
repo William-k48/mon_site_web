@@ -1,7 +1,10 @@
 tmp/todo.txt
 tmp/*
 *.txt
+<<<<<<< HEAD
 *.xml
+=======
+>>>>>>> origin/main
 
 
 
